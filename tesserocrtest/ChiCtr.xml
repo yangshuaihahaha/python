@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR2000037029</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2020-08-26</date_registration>
+      <primary_sponsor>Beijing Tsinghua Changgung Hospital</primary_sponsor>
+      <public_title>Clinical Application of Ballon Tract dilation monitored by ultrasound in percutaneous nephrolithotomy:  A Multicenter Prospective Observational Study</public_title>
+      <acronym />
+      <scientific_title>Clinical Application of Ballon Tract dilation monitored by ultrasound in percutaneous nephrolithotomy:  A Multicenter Prospective Observational Study</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2020-04-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:200;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=58371</url>
+      <study_type>Observational study</study_type>
+      <study_design>Single arm</study_design>
+      <phase>N/A</phase>
+      <hc_freetext>Urinary stones</hc_freetext>
+      <i_freetext>Case series:balloon dilatation monitored by ultrasound in establishing percutaneous renal access;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Haifeng Song</firstname>
+        <middlename />
+        <lastname />
+        <address>168 Litang Road, Changping District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15650715079</telephone>
+        <email>shf1990@hotmail.com</email>
+        <affiliation>Beijing Tsinghua Changgung Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Jianxing Li</firstname>
+        <middlename />
+        <lastname />
+        <address>168 Litang Road, Changping District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13321169366</telephone>
+        <email>lijianxing1964@outlook.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Patients who need percutaneous nephrolithotomy diagnosed with renal calculi or upper ureteral calculi;
+2, Aged 18-70 years old;
+3. Subjects signed informed consent to participate in this study.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>70</agemax>
+      <gender>Male</gender>
+      <exclusion_criteria>1. Patients with severe diseases could not tolerate surgery;
+2. The subjects were ASA grade IV or higher;
+3. Patients with coagulation dysfunction or oral anticoagulant drugs can not be stopped;
+4. Severe urinary tract infection with fever.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>successfull rate;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>decreased level of Hb;stone clearance rate;Complications;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self funding</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>1990-01-01</approval_date>
+        <contact_name>Manting Liu</contact_name>
+        <contact_address>168 Litang Road, Changping District, Beijing, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>
